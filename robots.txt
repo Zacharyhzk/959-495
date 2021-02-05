@@ -8,3 +8,4 @@ feature-01 add new first 2
 feature-01 add new second
 
 feature-01 second add after hitfix merge from feature-01
+feature-01 test revert
